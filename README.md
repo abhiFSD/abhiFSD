@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome, My name is Abhishek Paul 😃👋
+I'm a "Self Taught" Full Stack Developer 😈 Writing Code for 7 years now 😎
 
-<!--
-**abhiFSD/abhiFSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Upwork
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on Python
+- 🤔 I’m looking for help with Blockchain
+- 💬 Ask me about Full-Stack Development
+- 📫 How to reach me: abhishekpaul0055@gmail.com
+- 😄 Pronouns: Mr.
+- ⚡ Fun fact: I can ride Horse :D
+
